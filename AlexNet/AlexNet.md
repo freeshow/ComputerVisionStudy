@@ -106,6 +106,8 @@ AlexNet使用随机梯度下降算法，batch大小是128，动量衰减参数�
 
 ## 6. AlexNet Tensorflow2.0实现
 
+`GitHub仓库地址：` https://github.com/freeshow/ComputerVisionStudy.git
+
 ```python
 # tensorflow2.0
 import tensorflow as tf
