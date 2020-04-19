@@ -80,7 +80,7 @@ PS：有的文章称：发现这些全连接层即使被去除，对于性能也
 
 ## 5、VGG Tensorflow2.0实现
 
-
+GitHub地址：https://github.com/freeshow/ComputerVisionStudy/blob/master/VGG/VGG16.ipynb
 
 ## 6、相关链接
 
