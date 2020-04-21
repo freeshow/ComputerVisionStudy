@@ -241,4 +241,4 @@ model.evaluate(test_db)
 
 `转载自：` https://engmrk.com/lenet-5-a-classic-cnn-architecture/
 
-![欢迎关注微信公众号：大数据AI](http://freeshow.oss-cn-beijing.aliyuncs.com/blog/20200302/224029974.png)
+![](https://freeshow.oss-cn-beijing.aliyuncs.com/blog/公众号宣传码.png)
